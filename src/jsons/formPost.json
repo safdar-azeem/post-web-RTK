@@ -1,0 +1,26 @@
+[
+	{
+		"type": "text",
+		"name": "image",
+		"label": "Cover Image",
+		"required": true,
+		"placeholder": "Upload a cover image for your post",
+		"error": "Please upload a cover image for your post"
+	},
+	{
+		"type": "text",
+		"name": "title",
+		"label": "Post Title",
+		"required": true,
+		"placeholder": "Enter a title for your post",
+		"error": "Please enter a title for your post"
+	},
+	{
+		"type": "textarea",
+		"name": "description",
+		"label": "Post Description",
+		"required": true,
+		"placeholder": "Enter a description for your post",
+		"error": "Please enter a description for your post"
+	}
+]
